@@ -1,0 +1,4 @@
+/objects/
+*.pyc
+tags
+.mxbs_shortcuts

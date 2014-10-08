@@ -1,0 +1,10 @@
+[user]
+   name = Phil Hindman
+   email = pahindman@user.noreply.github.com
+[core]
+   excludesfile=~/.gitignore
+[branch]
+   autosetupmerge=always
+   autosetuprebase=local
+[push]
+   default = simple
