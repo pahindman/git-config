@@ -1,0 +1,7 @@
+*
+!/.gitconfig
+!/.gitignore
+!/.gitignore.d
+!/.gitignore.d/git-config
+!/README.md
+!/UNLICENSE
