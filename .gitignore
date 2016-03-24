@@ -2,3 +2,4 @@
 *.pyc
 tags
 .mxbs_shortcuts
+.*.sw[op]
