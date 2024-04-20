@@ -9,5 +9,7 @@
    autosetuprebase=local
 [push]
    default = simple
+[pull]
+	rebase = true
 [init]
 	defaultBranch = main
