@@ -19,3 +19,5 @@
 	sb = show-branch
 [rebase]
 	autosquash = true
+[include]
+	path = .gitconfig.local
