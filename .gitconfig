@@ -17,3 +17,5 @@
 	rebase = true
 [alias]
 	sb = show-branch
+[rebase]
+	autosquash = true
