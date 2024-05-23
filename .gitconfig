@@ -1,14 +1,14 @@
 [user]
-   name = Phil Hindman
-   email = pahindman@user.noreply.github.com
+	name = Phil Hindman
+	email = pahindman@user.noreply.github.com
 [core]
-   excludesfile=~/.gitignore
+	excludesfile=~/.gitignore
 	editor = vim
 [branch]
-   autosetupmerge=always
-   autosetuprebase=local
+	autosetupmerge=always
+	autosetuprebase=local
 [push]
-   default = simple
+	default = simple
 [pull]
 	rebase = true
 [init]
