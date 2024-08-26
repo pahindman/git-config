@@ -3,7 +3,6 @@
 	email = pahindman@user.noreply.github.com
 [core]
 	excludesfile=~/.gitignore
-	editor = vim
 [branch]
 	autosetupmerge=always
 	autosetuprebase=local
