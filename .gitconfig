@@ -5,7 +5,7 @@
 	excludesfile=~/.gitignore
 [branch]
 	autosetupmerge=always
-	autosetuprebase=local
+	autosetuprebase=always
 [push]
 	default = simple
 [pull]
