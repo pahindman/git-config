@@ -4,7 +4,7 @@
 [core]
 	excludesfile=~/.gitignore
 [branch]
-	autosetupmerge=true
+	autosetupmerge=inherit
 	autosetuprebase=always
 [push]
 	default = current
