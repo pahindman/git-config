@@ -12,8 +12,6 @@
 	rebase = true
 [init]
 	defaultBranch = main
-[pull]
-	rebase = true
 [alias]
 	sb = show-branch
 [rebase]
